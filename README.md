@@ -41,4 +41,5 @@ To decentralize and democratize fundraising by removing middlemen and ensuring s
 
 ## Contract Details
 0xD7c44d880B3D1749b5b3AEE8ce8970541b6960eF
-![Uploading image.png…]()
+<img width="1114" alt="image" src="https://github.com/user-attachments/assets/f0696085-08c9-4cac-8baf-87314aa02414" />
+
